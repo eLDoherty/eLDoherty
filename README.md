@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+Leonardo's here;Full+stack+web+developer...;Code+Enthusiast...;Freelance+ready..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=25&center=false&lines=hey!+Leonardo's here;Full+stack+web+developer...;Code+Enthusiast...;Freelance+ready..."/>
  
  <p>- <i>2017 Become a Blogger, 2018 start learning about HTML, CSS, and Javascript. This how I feel deeply in love with the world of Web Development. I like challenge and have willing something new, dynamic, highly motivated and confidence for the opportunity had given to me..</i></p>
 
