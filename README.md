@@ -49,8 +49,9 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![SQLserver](https://img.shields.io/badge/-SQLserver-05122A?style=flat&logo=sqlserver&logoColor=A8B9CC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+![Firebase](https://img.shields.io/badge/Firebase-316192?style=flat&logo=firebase&logoColor=orange)
 
 #### Framework
 
