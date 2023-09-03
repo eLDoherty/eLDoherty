@@ -33,7 +33,7 @@
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23150458.svg?style=flat&logo=php&logoColor=orange)&nbsp;
-![C#](https://img.shields.io/badge/Csharp-%23150458.svg?style=flat&logo=csharp&logoColor=yellow)&nbsp;
+![C#](https://img.shields.io/badge/csharp-%23150458.svg?style=flat&logo=csharp&logoColor=yellow)&nbsp;
 ![Java](https://img.shields.io/badge/Java-276DC3?style=flat&logo=Java&logoColor=blue&color=0B2C4A)&nbsp;
 
 
