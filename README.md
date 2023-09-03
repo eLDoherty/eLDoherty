@@ -41,6 +41,7 @@
 ![HTML](https://img.shields.io/badge/Html-092E20?style=flat&logo=html&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css-000000?style=flat&logo=css&logoColor=white)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Wordpress](https://img.shields.io/badge/Wordpress-D22128?style=flat&logo=wordpress&logoColor=blue)&nbsp;
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-D22128?style=flat&logo=bootstrap&logoColor=white)&nbsp;
