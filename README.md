@@ -13,8 +13,8 @@
 
 - 🔧 I’m currently working on Indosoft.
 
-- 💡 I’m curious about Blockchain and Crypto Currency.
-- 📖 I’m currently learning .NET Framework.
+- 💡 I’m curious about Blockchain.
+- 📖 I’m currently working with .NET Framework.
 - 📫 How to reach me dohertyleonardo@gmail.com.
 
 <hr>
@@ -56,7 +56,7 @@
 #### Framework
 
 ![Laravel](https://img.shields.io/badge/Laravel-00000F?style=flat&logo=laravel&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/dotnet-05122A?style=flat&logo=dotnet&logoColor=A8B9CC)&nbsp;
+![.NET MVC](https://img.shields.io/badge/dotnet-05122A?style=flat&logo=dotnet&logoColor=A8B9CC)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/expressjs-316192?style=flat&logo=expressjs&logoColor=green)
 
 #### Tools and Technologies
