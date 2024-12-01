@@ -5,7 +5,7 @@
  <p>- <i>2017 Become a Blogger, 2018 start learning about HTML, CSS, and Javascript. This how I feel deeply in love with the world of Web Development. I like challenge and have willing something new, dynamic, highly motivated and confidence for the opportunity had given to me..</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
