@@ -13,7 +13,7 @@
 
 - 🔧 I’m currently working on Indosoft.
 
-- 💡 I’m curious about Blockchain.
+- 💡 I’m curious about IoT.
 - 📖 I’m currently working with .NET Framework.
 - 📫 How to reach me dohertyleonardo@gmail.com.
 
