@@ -52,23 +52,5 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 
----
-
-## 📄📜 Stats
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eLDoherty&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=eLDoherty" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLDoherty&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-
----
-
 <!-- Optional Counter -->
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
